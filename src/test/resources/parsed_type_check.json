@@ -1,0 +1,10 @@
+{
+  "string" : "comp Test",
+  "numbers01" : -9,
+  "numbers02" : -9.0,
+  "bool01" : true,
+  "bool02" : false,
+  "null" : null,
+  "array": [],
+  "object": {}
+}

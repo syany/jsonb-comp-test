@@ -1,0 +1,6 @@
+{
+"id" : "Cat",
+"age" : 3,
+"wake" : true,
+"fromList" : ["ehime", "sagawa", "tokyo"]
+}
